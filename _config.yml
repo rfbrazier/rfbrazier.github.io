@@ -1,21 +1,20 @@
-title:            Site Title
-description:      Describe your website here.
+title:            rfbrazier.com
+description:      Product management, teams, design.
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://rfbrazier.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Rob Brazier
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          rob.brazier@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:       rfbrazier 
+  github:        rfbrazier 
+  linkedin:       robbrazier
   stackexchange:  
-  linkedin:       
   instagram:      
   flickr:         
   tumblr:         
@@ -33,16 +32,16 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Articles
+#    url: /articles
+#  - title: Theme Setup
+#    url: /theme-setup
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
